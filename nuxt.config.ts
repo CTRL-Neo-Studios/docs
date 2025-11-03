@@ -15,5 +15,10 @@ export default defineNuxtConfig({
     },
     site: {
         name: 'CTRL Docs'
+    },
+    content: {
+        preview: {
+            api: 'https://api.nuxt.studio'
+        }
     }
 })
