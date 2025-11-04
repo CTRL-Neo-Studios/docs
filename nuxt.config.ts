@@ -18,7 +18,12 @@ export default defineNuxtConfig({
     },
     content: {
         preview: {
-            api: 'https://api.nuxt.studio'
+            api: 'https://api.nuxt.studio',
+            gitInfo: {
+                name: 'docs',
+                owner: 'CTRL-Neo-Studios',
+                url: 'https://github.com/CTRL-Neo-Studios/docs'
+            }
         }
     }
 })
