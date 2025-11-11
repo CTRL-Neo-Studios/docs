@@ -17,7 +17,7 @@ Ship your projects fast, flexible, and with great DX and documentation using our
   ---
   color: neutral
   size: xl
-  to: /en/getting-started
+  to: /en/getting-started/introduction
   trailing-icon: i-lucide-arrow-right
   ---
   Get started

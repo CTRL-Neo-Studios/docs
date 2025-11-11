@@ -5,15 +5,15 @@
     "build": "nuxt build --extends docus"
   },
   "dependencies": {
-    "@iconify-json/lucide": "^1.2.72",
+    "@iconify-json/lucide": "^1.2.73",
     "@nuxt/content": "3.8.0",
-    "@nuxt/image": "1.11.0",
+    "@nuxt/image": "2.0.0",
     "@nuxt/scripts": "0.13.0",
     "@nuxt/ui": "4.1.0",
-    "@unhead/vue": "^2.0.3",
-    "better-sqlite3": "^12.2.0",
-    "docus": "latest",
-    "nuxt": "^4.1.2",
-    "typescript": "^5.6.3"
+    "@unhead/vue": "^2.0.19",
+    "better-sqlite3": "^12.4.1",
+    "docus": "^5.2.1",
+    "nuxt": "^4.2.1",
+    "typescript": "^5.9.3"
   }
 }
