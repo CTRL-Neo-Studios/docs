@@ -1,6 +1,6 @@
 ---
 links: []
-title: Introduction
+title: Getting Started
 description: Getting started with this documentation.
 navigation:
   icon: i-lucide-home
